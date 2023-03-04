@@ -30,3 +30,5 @@ Check the Project Window, there you will find your imported assets from the pack
 
 and joy your time 
 
+read pdf manual for more info.
+
