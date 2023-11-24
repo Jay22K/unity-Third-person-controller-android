@@ -32,3 +32,8 @@ and joy your time
 
 read pdf manual for more info.
 
+
+
+![alt text](https://github.com/Jay22K/unity-Third-person-controller-android/blob/main/121b95ef-5581-4044-a3dd-884312e3831b_orig.jpg)
+![alt text](https://github.com/Jay22K/unity-Third-person-controller-android/blob/main/36b92e07-114e-4a65-a704-e5048971ba86_orig.jpg)
+![alt text](https://github.com/Jay22K/unity-Third-person-controller-android/blob/main/7aa9d71c-d469-4be2-b83a-1d55c151e174_orig.jpg)
